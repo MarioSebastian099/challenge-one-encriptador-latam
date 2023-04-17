@@ -25,3 +25,4 @@ Encriptador/Desencriptador realizado en el programa oracle one next education ut
 + La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.
 + El resultado debe ser mostrado en la pantalla.
 + Añadir botón que copie el texto encriptado/desencriptado para la sección de transferencia.
+![cms_files_10224_1671210503Prancheta_3](https://user-images.githubusercontent.com/55300321/232614620-6b77d3ef-e35d-4dd1-9bc3-e0387aa09872.png)
